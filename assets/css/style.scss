@@ -2,4 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
-@import "font.sass"
+// @import "font.sass"
+@include font-face(PTSerif-Regular, ../fonts/PTSerif-Regular);
