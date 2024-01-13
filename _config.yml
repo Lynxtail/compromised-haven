@@ -4,7 +4,7 @@ markdown: GFM
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
-remote_theme: pages-themes/modernist@v0.2.0
+# remote_theme: pages-themes/modernist@v0.2.0
 relative_links:
   enabled: true
   collections: true
