@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Дисциплины"
-permalink: /compromised-haven
+permalink: /compromised-haven/index.md
 ---
 
 
