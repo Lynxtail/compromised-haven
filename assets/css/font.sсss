@@ -1,0 +1,5 @@
+---
+---
+
+font-family: "PTSerif";
+src : url("../fonts/PTSerif-Regular.ttf") format("truetype")

@@ -1,6 +1,10 @@
----
----
 
-// @import "{{ site.theme }}";
-// @import "font.sass"
-// @include font-face(PTSerif-Regular, ../fonts/PTSerif-Regular);
+---
+---
+//@import "font.scss"
+@import "{{ site.theme }}";
+    
+body {
+    font-family: "PTSerif-Regular";
+    src: url("../fonts/PTSerif-Regular.ttf");
+}
